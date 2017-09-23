@@ -1,0 +1,18 @@
+body{
+    font-family: Arial;
+    margin: 0;
+}
+.headerBanner {
+    background-color:purple;
+    width: 100%;
+    padding: 20px 0px 20px 40px;
+}
+h1{
+    color:white;
+}
+img{
+    width: 720px;
+}
+a{
+    color: purple;
+}
